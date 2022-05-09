@@ -1,0 +1,14 @@
+Rules for coding:
+
+1. Participants are allowed to choose to any one of the given programming languages.(C, C++, Java, Python)
+2. Each programming problem will have separate time constraints.
+3. Problems will be given at the time of competition.
+4. Use of internet or any kind of references is strictly prohibited for the participants.
+5. Coding must be done in Visual Studio code IDE.
+6.The contest will be conducted in three levels:
+
+-Easy
+-Moderate
+-Hard
+
+Cheers!
